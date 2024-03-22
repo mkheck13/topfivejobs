@@ -10,7 +10,7 @@ const JobThree = () => {
         <a className='ml-32 underline hover:text-purple-700' href='https://www.nvidia.com/en-us/about-nvidia/careers/' target='_blank'>Nvidia Careers</a>
       </div>
       <div className='w-1/2'>
-          <img className='mt-20 ml-32' src={image} alt='Nvidia Logo' width={500}/>
+          <img className='mt-20 ml-32 rounded-lg' src={image} alt='Nvidia Logo' width={500}/>
       </div>
     </div>
   )

@@ -14,7 +14,7 @@ const JobOne = () => {
         <a className='ml-32 underline hover:text-purple-700 mt-3' href='https://discord.com/jobs/7260171002' target='_blank'>Discord Software Engineer Position</a>
       </div>
       <div className='w-1/2'>
-          <img className='mt-20 ml-32' src={image} alt='Discord employees working together' width={500}/>
+          <img className='mt-20 ml-32 rounded-lg' src={image} alt='Discord employees working together' width={500}/>
       </div>
     </div>
     </>

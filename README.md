@@ -9,3 +9,6 @@
 
 ## Peer Reviewer: The website is very simple but i do really like the pink background. The links for the Nvida and Google page are both not centered like the other pages. Apart from that the site works. I would probably also round the borders of the images just to make it consistent with the text containers. Good Job!
 ## Peer Review: Mark Ortega
+
+
+## Update: Rounded the edges of the images. Could not figure out why the links were inconsistent.

@@ -9,7 +9,7 @@ const JobFive = () => {
         <p>I choose freelance work due to being able to more or less work at my own pace and take on as much work as I want. I have skills to start doing freelance work right now and the more skills I learn I’ll only get better at it.</p>
       </div>
       <div className='w-1/2'>
-          <img className='mt-20 ml-32' src={image} alt='Computer with code' width={500}/>
+          <img className='mt-20 ml-32 rounded-lg' src={image} alt='Computer with code' width={500}/>
       </div>
     </div>
   )

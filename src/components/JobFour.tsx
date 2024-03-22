@@ -10,7 +10,7 @@ const JobFour = () => {
         <a className='ml-32 underline hover:text-purple-700' href='https://www.google.com/about/careers/applications/?utm_source=about&utm_medium=referral&utm_campaign=footer-link' target='_blank'>Google Careers</a>
       </div>
       <div className='w-1/2'>
-          <img className='mt-20 ml-32' src={image} alt='Inside Google HQ' width={500}/>
+          <img className='mt-20 ml-32 rounded-lg' src={image} alt='Inside Google HQ' width={500}/>
       </div>
     </div>
   )

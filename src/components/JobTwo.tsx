@@ -10,7 +10,7 @@ const JobTwo = () => {
         <a className='ml-32 underline hover:text-purple-700 mt-3' href='https://www.cisco.com/c/en/us/about/careers/communities/students-and-new-graduates/apprenticeship.html' target='_blank'>Cisco Apprenticeship Application</a>
       </div>
       <div className='w-1/2'>
-          <img className='mt-20 ml-32' src={image} alt='Cisco Team' width={500}/>
+          <img className='mt-20 ml-32 rounded-lg' src={image} alt='Cisco Team' width={500}/>
       </div>
     </div>
   )
